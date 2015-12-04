@@ -15,13 +15,13 @@ PSRs you support to avoid any confusion with users and contributors.
 Via Composer
 
 ``` bash
-$ composer require :vendor/sitepages
+$ composer require shawnsandy/sitepages
 ```
 
 ## Usage
 
 ``` php
-$skeleton = new League\Skeleton();
+$skeleton = new ShawnSandy\Pages\SampleClass();
 echo $skeleton->echoPhrase('Hello, League!');
 ```
 
@@ -52,17 +52,16 @@ If you discover any security related issues, please email shawnsandy04@gmail.com
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/:vendor/sitepages.svg?style=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
-[ico-travis]: https://img.shields.io/travis/:vendor/sitepages/master.svg?style=flat-square
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/:vendor/sitepages.svg?style=flat-square
-[ico-code-quality]: https://img.shields.io/scrutinizer/g/:vendor/sitepages.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/:vendor/sitepages.svg?style=flat-square
+[ico-travis]: https://img.shields.io/travis/shawnsandy/sitepages/master.svg?style=flat-square
+[ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/shawnsandy/sitepages.svg?style=flat-square
+[ico-code-quality]: https://img.shields.io/scrutinizer/g/shawnsandy/sitepages.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/shawnsandy/sitepages.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/:vendor/sitepages
-[link-travis]: https://travis-ci.org/:vendor/sitepages
-[link-scrutinizer]: https://scrutinizer-ci.com/g/:vendor/sitepages/code-structure
-[link-code-quality]: https://scrutinizer-ci.com/g/:vendor/sitepages
-[link-downloads]: https://packagist.org/packages/:vendor/sitepages
+[link-packagist]: https://packagist.org/packages/shawnsandy/sitepages
+[link-travis]: https://travis-ci.org/shawnsandy/sitepages
+[link-scrutinizer]: https://scrutinizer-ci.com/g/shawnsandy/sitepages/code-structure
+[link-code-quality]: https://scrutinizer-ci.com/g/shawnsandy/sitepages
+[link-downloads]: https://packagist.org/packages/shawnsandy/sitepages
 [link-author]: https://github.com/shawnsandy
 [link-contributors]: ../../contributors
