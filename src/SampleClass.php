@@ -1,8 +1,8 @@
 <?php
 
-namespace League\Skeleton;
+namespace ShawnSandy\Pages;
 
-class SkeletonClass
+class SampleClass
 {
     /**
      * Create a new Skeleton Instance
