@@ -39,7 +39,7 @@ If you discover any security related issues, please email shawnsandy04@gmail.com
 
 ## Credits
 
-- [Shawn Sandy][link-author]
+- [Shawn Sandy](shawnsandy04@gmail.com)
 - [All Contributors][link-contributors]
 
 ## License

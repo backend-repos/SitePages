@@ -18,10 +18,9 @@ class SitePages extends Controller
      */
     public function index()
     {
-
-        $sm;
         $sm = new SampleClass();
-        return $sm->echoPhrase('Welcome to your site pages');
+        $hello = $sm->echoPhrase('Welcome to your site pages');
+        return view('sitepages::page_layout', compact('hello'));
     }
 
     /**
